@@ -10,6 +10,13 @@
   }
 }
 
+#map {
+  width: 100%;
+  height: 100%;
+
+  border-radius: 10px;
+}
+
 .center-block {
   display: block;
   margin-left: auto;
@@ -24,7 +31,6 @@
   color: darkviolet;
 }
 
-
 .instructor-icon2 {
-  color:orangered;
+  color: orangered;
 }
